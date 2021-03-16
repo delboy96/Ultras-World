@@ -1,0 +1,8 @@
+admin panel skinuti template sbAdmin i ubaciti u folder admin
+
+login submit
+registraciju AJAX-om uraditi proveriti js i php validacijom
+za token koristi:  bin2hex(random_bytes(60))
+u ajax folderu se radi ajax pozivi ka php-u
+
+dizajn baze ze anketu
